@@ -2,8 +2,7 @@ import chai from 'chai'
 const expect = chai.expect
 
 
-// import binarySearchRecursively from './binarySearchRecursively.js'
-const { binarySearchRecursively } = require('./binarySearchRecursively');
+import binarySearchRecursively from './binarySearchRecursively.js'
 
 const list = []
 for (let value = 1; value <= 100; value++) {
