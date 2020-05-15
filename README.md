@@ -7,7 +7,7 @@
 
 ## List of algorithms
 
-- [Binary Serach](src/binarySerach/)
+- [Binary Search](src/binarySearch/)
 - [Factorial](src/factorial/)
 - [Selection Sort](src/selectionSort/)
 - [Greatest Common Divisor](src/greatestCommonDivisor/)
