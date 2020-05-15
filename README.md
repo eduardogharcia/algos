@@ -7,8 +7,8 @@
 
 ## List of algorithms
 
-- [Binary Serach](binarySerach/)
-- [Factorial](factorial/)
-- [Selection Sort](selectionSort/)
-- [Greatest Common Divisor](greatestCommonDivisor/)
-- [Lists handlers](lists/)
+- [Binary Serach](src/binarySerach/)
+- [Factorial](src/factorial/)
+- [Selection Sort](src/selectionSort/)
+- [Greatest Common Divisor](src/greatestCommonDivisor/)
+- [Lists handlers](src/lists/)
